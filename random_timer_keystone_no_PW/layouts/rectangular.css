@@ -1,0 +1,76 @@
+/*
+ ===============================================================================
+ LAYOUT: rectangular
+ PURPOSE: Geometric rules for rectangular (sharp) design
+ DESCRIPTION: No border-radius, subtle shadows, minimal transitions.
+                Linear, business-like aesthetic.
+ ===============================================================================
+ */
+
+/* PT Sans font files (SIL OFL licensed, DSGVO-safe) */
+@font-face {
+    font-family: 'PT Sans';
+    src: url('../fonts/PTSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PT Sans';
+    src: url('../fonts/PTSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Josefin Sans font files (SIL OFL licensed, DSGVO-safe) */
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../fonts/JosefinSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../fonts/JosefinSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+:root {
+    /* Border radius */
+    --radius-sm: 0;
+    --radius-md: 0;
+    --radius-lg: 0;
+    --radius-xl: 0;
+
+    /* Borders */
+    --border-width: 1px;
+    --border-style: solid;
+    --border-color: #d0d0d0;
+
+    /* Shadows */
+    --shadow-sm: 0 1px 4px rgba(0, 0, 0, 0.05);
+    --shadow-md: 0 2px 10px rgba(0, 0, 0, 0.1);
+    --shadow-lg: 0 4px 20px rgba(0, 0, 0, 0.15);
+    --shadow-btn: none;
+
+    /* Progress bar */
+    --progress-height: 6px;
+    --progress-border-width: 0;
+    --progress-border-radius: 0;
+
+    /* Hover effects */
+    --hover-lift: none;
+    --hover-shadow: none;
+    --transition-fast: background 0.2s ease, border-color 0.2s ease;
+    --transition-medium: background 0.2s ease;
+
+    /* Fonts */
+    --font-primary: 'PT Sans', 'DejaVu Sans', 'Liberation Sans', 'Segoe UI', sans-serif;
+    --font-display: 'Josefin Sans', 'Liberation Sans', 'Helvetica Neue', Arial, sans-serif;
+}

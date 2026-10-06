@@ -1,0 +1,72 @@
+<!-- 
+  F.R.I.D.A. Timer -- HTML Template
+  AUTHOR: Ingo Barke and various local coding agents
+  VERSION: V1.70
+-->
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zufallstimer für Hundetraining</title>
+    <!-- LAYOUT:START -->
+    <link id="layout-css" rel="stylesheet" href="layouts/rectangular.css">
+    <!-- LAYOUT:END -->
+
+    <!-- THEME:START -->
+    <link id="theme-css" rel="stylesheet" href="themes/keystone.css">
+    <!-- THEME:END -->
+
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⏱️</text></svg>">
+</head>
+<body>
+
+    <div id="app" style="display:block;">
+        <header>
+            <h1>F.R.I.D.A. Timer</h1>
+        </header>
+
+        <!-- Module Selection View -->
+        <main id="module-selection-view" class="view hidden">
+            <h2>Wähle eine Übung</h2>
+            <div class="session-list" id="module-list"></div>
+        </main>
+
+        <!-- Session Selection View -->
+        <main id="selection-view" class="view active hidden">
+            <h2>Trainingseinheit auswählen</h2>
+            <div class="session-list" id="session-list"></div>
+        </main>
+
+        <main id="running-view" class="view hidden">
+            <div class="timer-layout">
+                <div class="timer-panel">
+                    <div class="timer-container">
+                        <div id="countdown" class="countdown">00:00</div>
+                    </div>
+                    
+                    <div class="progress-container">
+                        <div id="section-progress-label">Fortschritt: 0%</div>
+                        <div id="section-progress" class="progress-bar"></div>
+                    </div>
+
+                    <!-- KEKS! message overlay - centered over entire timer panel -->
+                    <div id="message" class="message"></div>
+
+                    <div class="controls">
+                        <button id="pause-btn" class="control-btn">Pause</button>
+                        <button id="stop-btn" class="control-btn">Stop</button>
+                    </div>
+                </div>
+
+                <aside class="timeline-panel">
+                    <h3>Zeitplan</h3>
+                    <div id="timeline"></div>
+                </aside>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

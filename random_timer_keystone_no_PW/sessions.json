@@ -1,0 +1,403 @@
+{
+  "modules": [
+    {
+      "id": "1A",
+      "title": "Wir formen einen entspannten Hund",
+      "sessions": [
+        {
+          "id": 1,
+          "name": "Trainingseinheit 1",
+          "approxDuration": "34 min",
+          "sections": [
+            {"min": 4, "max": 5, "sectionDuration": 60},
+            {"min": 5, "max": 8, "sectionDuration": 60},
+            {"min": 7, "max": 10, "sectionDuration": 60},
+            {"min": 9, "max": 18, "sectionDuration": 180},
+            {"min": 15, "max": 30, "sectionDuration": 180},
+            {"min": 20, "max": 50, "sectionDuration": 180},
+            {"min": 35, "max": 65, "sectionDuration": 300},
+            {"min": 55, "max": 80, "sectionDuration": 300},
+            {"min": 70, "max": 110, "sectionDuration": 300},
+            {"min": 90, "max": 150, "sectionDuration": 300}
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Trainingseinheit 2",
+          "approxDuration": "36 min",
+          "sections": [
+            {"min": 5, "max": 8, "sectionDuration": 60},
+            {"min": 7, "max": 10, "sectionDuration": 60},
+            {"min": 9, "max": 18, "sectionDuration": 60},
+            {"min": 15, "max": 30, "sectionDuration": 180},
+            {"min": 20, "max": 50, "sectionDuration": 180},
+            {"min": 35, "max": 65, "sectionDuration": 180},
+            {"min": 55, "max": 80, "sectionDuration": 300},
+            {"min": 70, "max": 110, "sectionDuration": 300},
+            {"min": 90, "max": 150, "sectionDuration": 420},
+            {"min": 100, "max": 180, "sectionDuration": 420}
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Trainingseinheit 3",
+          "approxDuration": "36 min",
+          "sections": [
+            {"min": 5, "max": 8, "sectionDuration": 60},
+            {"min": 7, "max": 10, "sectionDuration": 60},
+            {"min": 9, "max": 18, "sectionDuration": 60},
+            {"min": 15, "max": 30, "sectionDuration": 180},
+            {"min": 20, "max": 50, "sectionDuration": 180},
+            {"min": 35, "max": 65, "sectionDuration": 180},
+            {"min": 55, "max": 80, "sectionDuration": 300},
+            {"min": 70, "max": 110, "sectionDuration": 300},
+            {"min": 90, "max": 150, "sectionDuration": 420},
+            {"min": 100, "max": 180, "sectionDuration": 420}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1B",
+      "title": "Jeder ist ersetzlich",
+      "sessions": [
+        {
+          "id": 1,
+          "name": "Trainingseinheit 1",
+          "approxDuration": "36 min",
+          "sections": [
+            {"min": 5, "max": 8, "sectionDuration": 60},
+            {"min": 7, "max": 10, "sectionDuration": 60},
+            {"min": 9, "max": 18, "sectionDuration": 60},
+            {"min": 15, "max": 30, "sectionDuration": 180},
+            {"min": 20, "max": 50, "sectionDuration": 180},
+            {"min": 35, "max": 65, "sectionDuration": 180},
+            {"min": 55, "max": 80, "sectionDuration": 300},
+            {"min": 70, "max": 110, "sectionDuration": 300},
+            {"min": 90, "max": 150, "sectionDuration": 420},
+            {"min": 100, "max": 180, "sectionDuration": 420}
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Trainingseinheit 2",
+          "approxDuration": "36 min",
+          "sections": [
+            {"min": 5, "max": 8, "sectionDuration": 60},
+            {"min": 7, "max": 10, "sectionDuration": 60},
+            {"min": 9, "max": 18, "sectionDuration": 60},
+            {"min": 15, "max": 30, "sectionDuration": 180},
+            {"min": 20, "max": 50, "sectionDuration": 180},
+            {"min": 35, "max": 65, "sectionDuration": 180},
+            {"min": 55, "max": 80, "sectionDuration": 300},
+            {"min": 70, "max": 110, "sectionDuration": 300},
+            {"min": 90, "max": 150, "sectionDuration": 420},
+            {"min": 100, "max": 180, "sectionDuration": 420}
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Trainingseinheit 3",
+          "approxDuration": "36 min",
+          "sections": [
+            {"min": 7, "max": 10, "sectionDuration": 60},
+            {"min": 9, "max": 18, "sectionDuration": 60},
+            {"min": 15, "max": 30, "sectionDuration": 60},
+            {"min": 20, "max": 50, "sectionDuration": 180},
+            {"min": 35, "max": 65, "sectionDuration": 180},
+            {"min": 55, "max": 80, "sectionDuration": 180},
+            {"min": 70, "max": 110, "sectionDuration": 300},
+            {"min": 90, "max": 150, "sectionDuration": 300},
+            {"min": 100, "max": 180, "sectionDuration": 420},
+            {"min": 120, "max": 210, "sectionDuration": 420}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Werde zum Geist!",
+      "sessions": [
+        {
+          "id": 1,
+          "name": "Trainingseinheit 1",
+          "approxDuration": "42 min",
+          "sections": [
+            {"min": 7, "max": 10, "sectionDuration": 60},
+            {"min": 9, "max": 18, "sectionDuration": 60},
+            {"min": 15, "max": 30, "sectionDuration": 60},
+            {"min": 20, "max": 50, "sectionDuration": 180},
+            {"min": 35, "max": 65, "sectionDuration": 180},
+            {"min": 55, "max": 80, "sectionDuration": 180},
+            {"min": 70, "max": 110, "sectionDuration": 300},
+            {"min": 90, "max": 150, "sectionDuration": 300},
+            {"min": 100, "max": 180, "sectionDuration": 600},
+            {"min": 120, "max": 210, "sectionDuration": 600}
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Trainingseinheit 2",
+          "approxDuration": "42 min",
+          "sections": [
+            {"min": 9, "max": 18, "sectionDuration": 60},
+            {"min": 15, "max": 30, "sectionDuration": 60},
+            {"min": 20, "max": 50, "sectionDuration": 60},
+            {"min": 35, "max": 65, "sectionDuration": 180},
+            {"min": 55, "max": 80, "sectionDuration": 180},
+            {"min": 70, "max": 110, "sectionDuration": 180},
+            {"min": 90, "max": 150, "sectionDuration": 300},
+            {"min": 100, "max": 180, "sectionDuration": 300},
+            {"min": 120, "max": 210, "sectionDuration": 600},
+            {"min": 150, "max": 240, "sectionDuration": 600}
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Trainingseinheit 3",
+          "approxDuration": "42 min",
+          "sections": [
+            {"min": 9, "max": 18, "sectionDuration": 60},
+            {"min": 15, "max": 30, "sectionDuration": 60},
+            {"min": 20, "max": 50, "sectionDuration": 60},
+            {"min": 35, "max": 65, "sectionDuration": 180},
+            {"min": 55, "max": 80, "sectionDuration": 180},
+            {"min": 70, "max": 110, "sectionDuration": 180},
+            {"min": 90, "max": 150, "sectionDuration": 300},
+            {"min": 100, "max": 180, "sectionDuration": 300},
+            {"min": 120, "max": 210, "sectionDuration": 600},
+            {"min": 150, "max": 240, "sectionDuration": 600}
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Trainingseinheit 4",
+          "approxDuration": "47 min",
+          "sections": [
+            {"min": 9, "max": 18, "sectionDuration": 60},
+            {"min": 15, "max": 30, "sectionDuration": 60},
+            {"min": 20, "max": 50, "sectionDuration": 60},
+            {"min": 35, "max": 65, "sectionDuration": 180},
+            {"min": 55, "max": 80, "sectionDuration": 180},
+            {"min": 70, "max": 110, "sectionDuration": 180},
+            {"min": 90, "max": 150, "sectionDuration": 300},
+            {"min": 100, "max": 180, "sectionDuration": 300},
+            {"min": 120, "max": 210, "sectionDuration": 600},
+            {"min": 150, "max": 240, "sectionDuration": 900}
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Trainingseinheit 5",
+          "approxDuration": "47 min",
+          "sections": [
+            {"min": 9, "max": 18, "sectionDuration": 60},
+            {"min": 15, "max": 30, "sectionDuration": 60},
+            {"min": 20, "max": 50, "sectionDuration": 60},
+            {"min": 35, "max": 65, "sectionDuration": 180},
+            {"min": 55, "max": 80, "sectionDuration": 180},
+            {"min": 70, "max": 110, "sectionDuration": 180},
+            {"min": 90, "max": 150, "sectionDuration": 300},
+            {"min": 100, "max": 180, "sectionDuration": 300},
+            {"min": 120, "max": 210, "sectionDuration": 600},
+            {"min": 150, "max": 240, "sectionDuration": 900}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Wer ist hier hinter Gittern?",
+      "sessions": [
+        {
+          "id": 1,
+          "name": "Trainingseinheit 1",
+          "approxDuration": "47 min",
+          "sections": [
+            {"min": 9, "max": 18, "sectionDuration": 60},
+            {"min": 15, "max": 30, "sectionDuration": 60},
+            {"min": 20, "max": 50, "sectionDuration": 60},
+            {"min": 35, "max": 65, "sectionDuration": 180},
+            {"min": 55, "max": 80, "sectionDuration": 180},
+            {"min": 70, "max": 110, "sectionDuration": 180},
+            {"min": 90, "max": 150, "sectionDuration": 300},
+            {"min": 100, "max": 180, "sectionDuration": 300},
+            {"min": 120, "max": 210, "sectionDuration": 600},
+            {"min": 150, "max": 240, "sectionDuration": 900}
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Trainingseinheit 2",
+          "approxDuration": "58 min",
+          "sections": [
+            {"min": 15, "max": 30, "sectionDuration": 60},
+            {"min": 20, "max": 50, "sectionDuration": 60},
+            {"min": 40, "max": 80, "sectionDuration": 180},
+            {"min": 60, "max": 120, "sectionDuration": 180},
+            {"min": 90, "max": 150, "sectionDuration": 300},
+            {"min": 120, "max": 180, "sectionDuration": 300},
+            {"min": 150, "max": 240, "sectionDuration": 600},
+            {"min": 180, "max": 270, "sectionDuration": 600},
+            {"min": 210, "max": 300, "sectionDuration": 1200}
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Trainingseinheit 3",
+          "approxDuration": "58 min",
+          "sections": [
+            {"min": 15, "max": 30, "sectionDuration": 60},
+            {"min": 20, "max": 50, "sectionDuration": 60},
+            {"min": 40, "max": 80, "sectionDuration": 180},
+            {"min": 60, "max": 120, "sectionDuration": 180},
+            {"min": 90, "max": 150, "sectionDuration": 300},
+            {"min": 120, "max": 180, "sectionDuration": 300},
+            {"min": 150, "max": 240, "sectionDuration": 600},
+            {"min": 180, "max": 270, "sectionDuration": 600},
+            {"min": 210, "max": 300, "sectionDuration": 1200}
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Trainingseinheit 4",
+          "approxDuration": "58 min",
+          "sections": [
+            {"min": 15, "max": 30, "sectionDuration": 60},
+            {"min": 20, "max": 50, "sectionDuration": 60},
+            {"min": 40, "max": 80, "sectionDuration": 180},
+            {"min": 60, "max": 120, "sectionDuration": 180},
+            {"min": 90, "max": 150, "sectionDuration": 300},
+            {"min": 120, "max": 180, "sectionDuration": 300},
+            {"min": 150, "max": 240, "sectionDuration": 600},
+            {"min": 180, "max": 270, "sectionDuration": 600},
+            {"min": 210, "max": 300, "sectionDuration": 1200}
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Trainingseinheit 5",
+          "approxDuration": "58 min",
+          "sections": [
+            {"min": 15, "max": 30, "sectionDuration": 60},
+            {"min": 20, "max": 50, "sectionDuration": 60},
+            {"min": 40, "max": 80, "sectionDuration": 180},
+            {"min": 60, "max": 120, "sectionDuration": 180},
+            {"min": 90, "max": 150, "sectionDuration": 300},
+            {"min": 120, "max": 180, "sectionDuration": 300},
+            {"min": 150, "max": 240, "sectionDuration": 600},
+            {"min": 180, "max": 270, "sectionDuration": 600},
+            {"min": 210, "max": 300, "sectionDuration": 1200}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Das Haus verlassen",
+      "sessions": [
+        {
+          "id": 1,
+          "name": "Trainingseinheit 1",
+          "approxDuration": "75 min",
+          "sections": [
+            {"min": 30, "max": 120, "sectionDuration": 300},
+            {"min": 90, "max": 150, "sectionDuration": 300},
+            {"min": 120, "max": 180, "sectionDuration": 300},
+            {"min": 150, "max": 300, "sectionDuration": 300},
+            {"type": "transition", "text": "Gehe jetzt rein und mache mit 'T\u00fcr zu!' weiter"},
+            {"min": 150, "max": 300, "sectionDuration": 1500},
+            {"min": 240, "max": 360, "sectionDuration": 1800}
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Trainingseinheit 2",
+          "approxDuration": "75 min",
+          "sections": [
+            {"min": 30, "max": 120, "sectionDuration": 300},
+            {"min": 90, "max": 150, "sectionDuration": 300},
+            {"min": 120, "max": 180, "sectionDuration": 300},
+            {"min": 150, "max": 300, "sectionDuration": 1500},
+            {"type": "transition", "text": "Gehe jetzt rein und mache mit 'T\u00fcr zu!' weiter"},
+            {"min": 150, "max": 300, "sectionDuration": 300},
+            {"min": 240, "max": 360, "sectionDuration": 1800}
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Trainingseinheit 3",
+          "approxDuration": "75 min",
+          "sections": [
+            {"min": 30, "max": 120, "sectionDuration": 300},
+            {"min": 90, "max": 150, "sectionDuration": 300},
+            {"min": 120, "max": 180, "sectionDuration": 300},
+            {"min": 150, "max": 300, "sectionDuration": 1800},
+            {"min": 240, "max": 360, "sectionDuration": 900},
+            {"type": "transition", "text": "Gehe jetzt rein und mache mit 'T\u00fcr zu!' weiter"},
+            {"min": 240, "max": 360, "sectionDuration": 900}
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Trainingseinheit 4",
+          "approxDuration": "75 min",
+          "sections": [
+            {"min": 30, "max": 120, "sectionDuration": 300},
+            {"min": 90, "max": 150, "sectionDuration": 300},
+            {"min": 120, "max": 180, "sectionDuration": 300},
+            {"min": 150, "max": 300, "sectionDuration": 1800},
+            {"min": 240, "max": 360, "sectionDuration": 1800}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Das neue Lebenskapitel",
+      "sessions": [
+        {
+          "id": 1,
+          "name": "Trainingseinheit 1",
+          "approxDuration": "90 min",
+          "sections": [
+            {"min": 60, "max": 180, "sectionDuration": 300},
+            {"min": 120, "max": 300, "sectionDuration": 600},
+            {"min": 240, "max": 480, "sectionDuration": 1800},
+            {"min": 360, "max": 600, "sectionDuration": 2700}
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Trainingseinheit 2",
+          "approxDuration": "120 min",
+          "sections": [
+            {"min": 120, "max": 300, "sectionDuration": 600},
+            {"min": 240, "max": 480, "sectionDuration": 1200},
+            {"min": 360, "max": 720, "sectionDuration": 2700},
+            {"min": 480, "max": 900, "sectionDuration": 2700}
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Trainingseinheit 3",
+          "approxDuration": "150 min",
+          "sections": [
+            {"min": 240, "max": 480, "sectionDuration": 1200},
+            {"min": 360, "max": 900, "sectionDuration": 3600},
+            {"min": 600, "max": 1200, "sectionDuration": 4200}
+          ]
+        },
+        {
+          "id": "4",
+          "name": "Trainingseinheit 4",
+          "approxDuration": "80 min",
+          "sections": [
+            {"min": 240, "max": 480, "sectionDuration": 1200},
+            {"min": 1200, "max": 3600, "sectionDuration": 7200}
+          ]
+        }
+      ]
+    }
+  ]
+}
